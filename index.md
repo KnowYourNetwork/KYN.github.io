@@ -1,123 +1,86 @@
+# 👋 Hi, I'm **KnowYourNetwork (KYN)**  
+### *Future SOC Analyst | SIEM Operations | Threat Detection & Response*
+
 ---
-layout: default
+
+## 🧭 Mission Statement  
+I'm building my cybersecurity foundation from the ground up through hands-on labs focused on SOC analysis, log correlation, and cloud security monitoring.  
+Each project on this portfolio represents a practical step in developing skills for **real-world incident response and threat detection**.
+
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+## 🧠 Certifications  
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-red?logo=comptia&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue?logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-lightgrey?logo=comptia&logoColor=white)
+![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-blue?logo=microsoftazure&logoColor=white)
 
-[Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
+## 🧰 Technical Skills  
+| Category | Tools & Technologies |
+|-----------|---------------------|
+| **SIEM & Log Analysis** | Splunk, ELK Stack, Wazuh, Sysmon |
+| **Network Analysis** | Wireshark, Zeek, Nmap, tcpdump |
+| **Security & Detection** | Sigma, Suricata, MITRE ATT&CK |
+| **Cloud Security** | Microsoft Azure, Defender for Cloud, Sentinel |
+| **Operating Systems** | Windows Server, Linux (Kali, Ubuntu) |
+| **Scripting & Automation** | Python, PowerShell, Bash |
+| **Virtualization & Labs** | VMware Workstation, Hyper-V, VirtualBox |
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 🧪 Featured Labs  
+Each lab demonstrates a focused cybersecurity competency with real-world relevance.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### 🔹 [Splunk SIEM Fundamentals](labs/lab1-splunk/)
+**Goal:** Build foundational SPL queries and dashboards to identify brute-force, phishing, and malware activity.  
+**Tools:** Splunk, Sysmon logs, sample event data  
+*Status: Completed — awaiting screenshots*
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### 🔹 [Network Traffic Analysis](labs/lab2-traffic-analysis/)
+**Goal:** Analyze malicious PCAPs and identify suspicious patterns using Wireshark and Zeek.  
+**Tools:** Wireshark, Zeek, Kali Linux  
+*Status: In Progress*
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### 🔹 [SOC Incident Simulation](labs/lab3-soc-playbook/)
+**Goal:** Investigate a simulated attack chain (phishing → privilege escalation → exfiltration) using Wazuh SIEM.  
+**Tools:** Wazuh, MITRE ATT&CK, Elastic Stack  
+*Status: Planned*
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+### 🔹 [Active Directory Attack & Defense](labs/lab4-ad-defense/)
+**Goal:** Build an AD test environment, execute brute force and persistence attacks, then detect and respond.  
+**Tools:** Windows Server, BloodHound, Splunk  
+*Status: Planned*
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+### 🔹 [Azure Cloud Security Lab](labs/lab5-azure-security/)
+**Goal:** Deploy secure Azure resources and monitor alerts in Sentinel and Defender for Cloud.  
+**Tools:** Azure, KQL, Sentinel  
+*Status: Planned*
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## 🎯 Roadmap  
+✅ Earn foundational certifications (A+, Network+, Security+, AZ-900)  
+🔄 Build & document 5+ cybersecurity labs  
+📊 Publish dashboards and SIEM searches  
+🚀 Apply for SOC Analyst / Cyber Defense roles  
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## 📫 Connect with Me  
+🌐 **GitHub:** (https://github.com/KnowYourNetwork/KnowYourNetwork.github.io)  
+💼 **LinkedIn:** (https://www.linkedin.com/in/kycyber/)   
 
-* * *
+---
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+> 💡 *“Visibility is the first step to security.”*  
+> — **KnowYourNetwork (KYN)**
