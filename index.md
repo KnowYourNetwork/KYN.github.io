@@ -17,9 +17,10 @@ Each project on this portfolio represents a practical step in developing skills 
 
 ---
 
-## 🧰 Technical Skills  
+## 🧰 Technical Skills
+
 | Category | Tools & Technologies |
-|-----------|---------------------|
+|:----------|:---------------------|
 | **SIEM & Log Analysis** | Splunk, ELK Stack, Wazuh, Sysmon |
 | **Network Analysis** | Wireshark, Zeek, Nmap, tcpdump |
 | **Security & Detection** | Sigma, Suricata, MITRE ATT&CK |
