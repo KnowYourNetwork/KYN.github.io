@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **KnowYourNetwork (KYN)**  
+# Hi, I'm **KnowYourNetwork (KYN)**  
 ### *Future SOC Analyst | SIEM Operations | Threat Detection & Response*
 
 ---
@@ -69,7 +69,7 @@ Each lab demonstrates a focused cybersecurity competency with real-world relevan
 ---
 
 ## 🎯 Roadmap  
-✅ Earn foundational certifications (A+, Network+, Security+, AZ-900)  
+✅ Earned foundational certifications (A+, Network+, Security+, AZ-900)  
 🔄 Build & document 5+ cybersecurity labs  
 📊 Publish dashboards and SIEM searches  
 🚀 Apply for SOC Analyst / Cyber Defense roles  
