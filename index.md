@@ -77,9 +77,9 @@ Each lab demonstrates a focused cybersecurity competency with real-world relevan
 
 ---
 
-## 📫 Connect with Me  
-🌐 **GitHub:** (https://github.com/KnowYourNetwork/KnowYourNetwork.github.io)  
-💼 **LinkedIn:** (https://www.linkedin.com/in/kycyber/)   
+## 🔗 Connect
+- [GitHub — KnowYourNetwork](https://github.com/KnowYourNetwork)
+- [LinkedIn — KnowYourNetwork](https://www.linkedin.com/in/kycyber/)   
 
 ---
 
