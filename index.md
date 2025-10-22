@@ -21,11 +21,11 @@ Each project on this portfolio represents a practical step in developing skills 
 
 | Category | Tools & Technologies |
 |:----------|:---------------------|
-| **SIEM & Log Analysis** | Splunk, ELK Stack, Wazuh, Sysmon |
+| **SIEM & Log Analysis** | Splunk |
 | **Network Analysis** | Wireshark, Zeek, Nmap, tcpdump |
 | **Security & Detection** | Sigma, Suricata, MITRE ATT&CK |
 | **Cloud Security** | Microsoft Azure, Defender for Cloud, Sentinel |
-| **Operating Systems** | Windows Server, Linux (Kali, Ubuntu) |
+| **Operating Systems** | Windows Server, Linux (Kali, Mint) |
 | **Scripting & Automation** | Python, PowerShell, Bash |
 | **Virtualization & Labs** | VMware Workstation, Hyper-V, VirtualBox |
 
